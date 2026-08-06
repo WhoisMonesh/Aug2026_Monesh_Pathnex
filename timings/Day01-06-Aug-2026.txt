@@ -1,0 +1,15 @@
+----------------------------------------
+What I did today
+----------------------------------------
+1 hour - Watched Linux Basics video (Day 1)
+1 hour - Practiced Linux commands (ls, cd, pwd, mkdir, touch, rm, cp, mv)
+30 mins - Learned about file permissions (chmod, chown)
+1 hour - English speaking practice
+1 hour - 2 set DevOps interview questions
+
+Tomorrow's Task
+----------------------------------------
+- Linux file system hierarchy & processes
+- 1 hour coding practice
+- 1 hour English reading
+- 1 hour Question Paper

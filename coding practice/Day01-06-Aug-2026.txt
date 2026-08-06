@@ -1,0 +1,6 @@
+# Day 1 Coding Practice
+
+1. Wrote a script to list all files in a directory recursively
+2. Created directories and files using command line
+3. Used grep to search patterns in files
+4. Practiced file permissions with chmod
