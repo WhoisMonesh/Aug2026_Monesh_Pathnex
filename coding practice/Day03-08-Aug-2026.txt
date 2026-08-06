@@ -1,0 +1,6 @@
+# Day 3 Coding Practice
+
+1. Wrote a script to monitor a process (CPU, memory usage)
+2. Created a network diagnostic script (ping, port check)
+3. Practiced curl commands for API testing
+4. Practiced systemd service unit file creation
