@@ -1,0 +1,6 @@
+# Day 2 Coding Practice
+
+1. Wrote a bash script with variables and user input
+2. Created a script using if-else conditions
+3. Used for and while loops in a script
+4. Practiced awk and sed commands
