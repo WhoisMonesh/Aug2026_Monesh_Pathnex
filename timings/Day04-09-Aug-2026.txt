@@ -1,0 +1,15 @@
+----------------------------------------
+What I did today
+----------------------------------------
+1 hour - Linux cron jobs
+1 hour - User and group management
+30 mins - Coding practice (shell scripts)
+1 hour - English speaking practice
+2 hours - 2 set DevOps interview questions
+
+Tomorrow's Task
+----------------------------------------
+- ELK, Kafka, Terraform revision
+- 1 hour coding
+- 1 hour English reading
+- 1 hour Question Paper
