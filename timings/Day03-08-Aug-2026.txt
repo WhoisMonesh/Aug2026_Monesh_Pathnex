@@ -1,0 +1,14 @@
+----------------------------------------
+What I did today
+----------------------------------------
+1 hour - Linux process management (ps, top, kill, systemd)
+1 hour - Networking commands (netstat, curl, wget)
+1 hour - English speaking practice
+1 hour - DevOps interview questions
+
+Tomorrow's Task
+----------------------------------------
+- DevOps tools: Git deep dive, build automation
+- 1 hour coding
+- 1 hour English reading
+- 1 hour Question Paper
