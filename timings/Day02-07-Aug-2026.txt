@@ -1,0 +1,15 @@
+----------------------------------------
+What I did today
+----------------------------------------
+1 hour - Learned Linux file system hierarchy
+1 hour - Shell scripting basics (variables, loops, conditionals)
+30 mins - Coding practice (bash scripts)
+1 hour - English speaking/watching movies
+2 hours - 2 sets of DevOps interview questions
+
+Tomorrow's Task
+----------------------------------------
+- Linux process management, networking commands
+- 1 hour coding
+- 1 hour English reading
+- 1 hour Question Paper
