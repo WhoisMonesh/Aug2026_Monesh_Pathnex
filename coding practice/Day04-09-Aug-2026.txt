@@ -1,0 +1,6 @@
+# Day 4 Coding Practice
+
+1. Wrote a basic Dockerfile
+2. Practiced Docker image building
+3. Docker volumes and networks
+4. Git branching and merging strategies
